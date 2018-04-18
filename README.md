@@ -1,2 +1,2 @@
 # ECE2799
- basicaly just some sample code
+ basically just some sample code
